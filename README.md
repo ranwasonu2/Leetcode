@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ranwasonu2/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ranwasonu2/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranwasonu2/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -84,5 +85,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ranwasonu2/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Array
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
