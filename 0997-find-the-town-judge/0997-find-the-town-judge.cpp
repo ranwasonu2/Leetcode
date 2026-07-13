@@ -2,41 +2,20 @@ class Solution {
 public:
     int findJudge(int n, vector<vector<int>>& trust) {
 
-        vector<vector<int>> adj(n + 1);
+        vector<int> indegree(n + 1, 0);
+        vector<int> outdegree(n + 1, 0);
 
         for (int i = 0; i < trust.size(); i++) {
-            adj[trust[i][0]].push_back(trust[i][1]);
+            int a = trust[i][0];
+            int b = trust[i][1];
+
+            outdegree[a]++;
+            indegree[b]++;
         }
 
-        for (int candidate = 1; candidate <= n; candidate++) {
-
-            if (adj[candidate].size() != 0)
-                continue;
-
-            bool judge = true;
-
-            for (int person = 1; person <= n; person++) {
-
-                if (person == candidate)
-                    continue;
-
-                bool found = false;
-
-                for (int trustedPerson : adj[person]) {
-                    if (trustedPerson == candidate) {
-                        found = true;
-                        break;
-                    }
-                }
-
-                if (!found) {
-                    judge = false;
-                    break;
-                }
-            }
-
-            if (judge)
-                return candidate;
+        for (int i = 1; i <= n; i++) {
+            if (indegree[i] == n - 1 && outdegree[i] == 0)
+                return i;
         }
 
         return -1;
