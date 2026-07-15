@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ranwasonu2/Leetcode/tree/master/0051-n-queens) |
 | [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Depth-First Search
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/ranwasonu2/Leetcode/tree/master/0841-keys-and-rooms) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ranwasonu2/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
