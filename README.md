@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ranwasonu2/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranwasonu2/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ranwasonu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/ranwasonu2/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/ranwasonu2/Leetcode/tree/master/0051-n-queens) |
 | [0560-subarray-sum-equals-k](https://github.com/ranwasonu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/ranwasonu2/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Depth-First Search
 |  |
@@ -113,4 +115,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ranwasonu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/ranwasonu2/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/ranwasonu2/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
