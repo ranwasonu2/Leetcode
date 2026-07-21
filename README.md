@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ranwasonu2/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ranwasonu2/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranwasonu2/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/ranwasonu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ranwasonu2/Leetcode/tree/master/0051-n-queens) |
+| [0560-subarray-sum-equals-k](https://github.com/ranwasonu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Depth-First Search
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ranwasonu2/Leetcode/tree/master/0051-n-queens) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ranwasonu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
