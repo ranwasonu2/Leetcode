@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ranwasonu2/Leetcode/tree/master/0051-n-queens) |
+| [0198-house-robber](https://github.com/ranwasonu2/Leetcode/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/ranwasonu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ranwasonu2/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/ranwasonu2/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ranwasonu2/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/ranwasonu2/Leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
