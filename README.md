@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ranwasonu2/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ranwasonu2/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ranwasonu2/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ranwasonu2/Leetcode/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ranwasonu2/Leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/ranwasonu2/Leetcode/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ranwasonu2/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ranwasonu2/Leetcode/tree/master/0198-house-robber) |
